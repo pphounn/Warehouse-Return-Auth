@@ -29,7 +29,7 @@ create table CUSTOMER (
 	primary key (CustNum)
 );
 
-insert into CUSTOMER (CustNum, firstName, lastName, streetAddress, city, stateCode, zipCode, phoneNum) values ('101', 'Peter', 'Phoun', '725 E Hill St.', 'Long Beach', 'CA', '90806', '5622533038');
+insert into CUSTOMER (CustNum, firstName, lastName, streetAddress, city, stateCode, zipCode, phoneNum) values ('101', 'Peter', 'Pan', '111 Earth St.', 'Long Beach', 'NY', '99999', '213111111');
 insert into CUSTOMER (CustNum, firstName, lastName, streetAddress, city, stateCode, zipCode, phoneNum) values ('102', 'Adam', 'Quincy', '836 W Mars Ave.', 'Los Angeles', 'CA', '91331', '8182135321');
 insert into CUSTOMER (CustNum, firstName, lastName, streetAddress, city, stateCode, zipCode, phoneNum) values ('103', 'Betty', 'Reyes', '947 N Neptune Way', 'New York', 'CA', '10161', '2129810608');
 insert into CUSTOMER (CustNum, firstName, lastName, streetAddress, city, stateCode, zipCode, phoneNum) values ('104', 'Carrie', 'Sims', '158 S Jupiter Lane', 'Fulton', 'GA', '30301', '4044562130');
